@@ -2,6 +2,7 @@ belajar
 1. HTML
 2. CSS
 3. Javascript
-  * vue
-  * react
+ * angular
+ * react
+4. PHP
 5. phyton

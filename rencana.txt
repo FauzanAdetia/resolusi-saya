@@ -3,6 +3,6 @@ belajar
 2. CSS
 3. Javascript
  * angular
- *react
+ * react
 4. PHP
 5. phyton
